@@ -1,0 +1,16 @@
+D:\LTTQ\BangVeMini\bin\Debug\net9.0-windows\BangVeMini.exe
+D:\LTTQ\BangVeMini\bin\Debug\net9.0-windows\BangVeMini.deps.json
+D:\LTTQ\BangVeMini\bin\Debug\net9.0-windows\BangVeMini.runtimeconfig.json
+D:\LTTQ\BangVeMini\bin\Debug\net9.0-windows\BangVeMini.dll
+D:\LTTQ\BangVeMini\bin\Debug\net9.0-windows\BangVeMini.pdb
+D:\LTTQ\BangVeMini\obj\Debug\net9.0-windows\BangVeMini.Form1.resources
+D:\LTTQ\BangVeMini\obj\Debug\net9.0-windows\BangVeMini.csproj.GenerateResource.cache
+D:\LTTQ\BangVeMini\obj\Debug\net9.0-windows\BangVeMini.GeneratedMSBuildEditorConfig.editorconfig
+D:\LTTQ\BangVeMini\obj\Debug\net9.0-windows\BangVeMini.AssemblyInfoInputs.cache
+D:\LTTQ\BangVeMini\obj\Debug\net9.0-windows\BangVeMini.AssemblyInfo.cs
+D:\LTTQ\BangVeMini\obj\Debug\net9.0-windows\BangVeMini.csproj.CoreCompileInputs.cache
+D:\LTTQ\BangVeMini\obj\Debug\net9.0-windows\BangVeMini.dll
+D:\LTTQ\BangVeMini\obj\Debug\net9.0-windows\refint\BangVeMini.dll
+D:\LTTQ\BangVeMini\obj\Debug\net9.0-windows\BangVeMini.pdb
+D:\LTTQ\BangVeMini\obj\Debug\net9.0-windows\BangVeMini.genruntimeconfig.cache
+D:\LTTQ\BangVeMini\obj\Debug\net9.0-windows\ref\BangVeMini.dll
