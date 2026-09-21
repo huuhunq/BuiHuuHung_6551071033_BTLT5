@@ -1,0 +1,16 @@
+D:\LTTQ\SieuThi\bin\Debug\net9.0-windows\SieuThi.exe
+D:\LTTQ\SieuThi\bin\Debug\net9.0-windows\SieuThi.deps.json
+D:\LTTQ\SieuThi\bin\Debug\net9.0-windows\SieuThi.runtimeconfig.json
+D:\LTTQ\SieuThi\bin\Debug\net9.0-windows\SieuThi.dll
+D:\LTTQ\SieuThi\bin\Debug\net9.0-windows\SieuThi.pdb
+D:\LTTQ\SieuThi\obj\Debug\net9.0-windows\SieuThi.csproj.GenerateResource.cache
+D:\LTTQ\SieuThi\obj\Debug\net9.0-windows\SieuThi.GeneratedMSBuildEditorConfig.editorconfig
+D:\LTTQ\SieuThi\obj\Debug\net9.0-windows\SieuThi.AssemblyInfoInputs.cache
+D:\LTTQ\SieuThi\obj\Debug\net9.0-windows\SieuThi.AssemblyInfo.cs
+D:\LTTQ\SieuThi\obj\Debug\net9.0-windows\SieuThi.csproj.CoreCompileInputs.cache
+D:\LTTQ\SieuThi\obj\Debug\net9.0-windows\SieuThi.dll
+D:\LTTQ\SieuThi\obj\Debug\net9.0-windows\refint\SieuThi.dll
+D:\LTTQ\SieuThi\obj\Debug\net9.0-windows\SieuThi.pdb
+D:\LTTQ\SieuThi\obj\Debug\net9.0-windows\SieuThi.genruntimeconfig.cache
+D:\LTTQ\SieuThi\obj\Debug\net9.0-windows\ref\SieuThi.dll
+D:\LTTQ\SieuThi\obj\Debug\net9.0-windows\SieuThi.FormBanHang.resources
