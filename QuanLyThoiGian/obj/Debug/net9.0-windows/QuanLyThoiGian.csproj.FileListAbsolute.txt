@@ -1,0 +1,16 @@
+D:\LTTQ\QuanLyThoiGian\bin\Debug\net9.0-windows\QuanLyThoiGian.exe
+D:\LTTQ\QuanLyThoiGian\bin\Debug\net9.0-windows\QuanLyThoiGian.deps.json
+D:\LTTQ\QuanLyThoiGian\bin\Debug\net9.0-windows\QuanLyThoiGian.runtimeconfig.json
+D:\LTTQ\QuanLyThoiGian\bin\Debug\net9.0-windows\QuanLyThoiGian.dll
+D:\LTTQ\QuanLyThoiGian\bin\Debug\net9.0-windows\QuanLyThoiGian.pdb
+D:\LTTQ\QuanLyThoiGian\obj\Debug\net9.0-windows\QuanLyThoiGian.Form1.resources
+D:\LTTQ\QuanLyThoiGian\obj\Debug\net9.0-windows\QuanLyThoiGian.csproj.GenerateResource.cache
+D:\LTTQ\QuanLyThoiGian\obj\Debug\net9.0-windows\QuanLyThoiGian.GeneratedMSBuildEditorConfig.editorconfig
+D:\LTTQ\QuanLyThoiGian\obj\Debug\net9.0-windows\QuanLyThoiGian.AssemblyInfoInputs.cache
+D:\LTTQ\QuanLyThoiGian\obj\Debug\net9.0-windows\QuanLyThoiGian.AssemblyInfo.cs
+D:\LTTQ\QuanLyThoiGian\obj\Debug\net9.0-windows\QuanLyThoiGian.csproj.CoreCompileInputs.cache
+D:\LTTQ\QuanLyThoiGian\obj\Debug\net9.0-windows\QuanLyThoiGian.dll
+D:\LTTQ\QuanLyThoiGian\obj\Debug\net9.0-windows\refint\QuanLyThoiGian.dll
+D:\LTTQ\QuanLyThoiGian\obj\Debug\net9.0-windows\QuanLyThoiGian.pdb
+D:\LTTQ\QuanLyThoiGian\obj\Debug\net9.0-windows\QuanLyThoiGian.genruntimeconfig.cache
+D:\LTTQ\QuanLyThoiGian\obj\Debug\net9.0-windows\ref\QuanLyThoiGian.dll
