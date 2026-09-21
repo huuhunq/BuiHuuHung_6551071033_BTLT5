@@ -1,0 +1,16 @@
+D:\LTTQ\Gym_FitLife\bin\Debug\net9.0-windows\Gym_FitLife.exe
+D:\LTTQ\Gym_FitLife\bin\Debug\net9.0-windows\Gym_FitLife.deps.json
+D:\LTTQ\Gym_FitLife\bin\Debug\net9.0-windows\Gym_FitLife.runtimeconfig.json
+D:\LTTQ\Gym_FitLife\bin\Debug\net9.0-windows\Gym_FitLife.dll
+D:\LTTQ\Gym_FitLife\bin\Debug\net9.0-windows\Gym_FitLife.pdb
+D:\LTTQ\Gym_FitLife\obj\Debug\net9.0-windows\Gym_FitLife.Form1.resources
+D:\LTTQ\Gym_FitLife\obj\Debug\net9.0-windows\Gym_FitLife.csproj.GenerateResource.cache
+D:\LTTQ\Gym_FitLife\obj\Debug\net9.0-windows\Gym_FitLife.GeneratedMSBuildEditorConfig.editorconfig
+D:\LTTQ\Gym_FitLife\obj\Debug\net9.0-windows\Gym_FitLife.AssemblyInfoInputs.cache
+D:\LTTQ\Gym_FitLife\obj\Debug\net9.0-windows\Gym_FitLife.AssemblyInfo.cs
+D:\LTTQ\Gym_FitLife\obj\Debug\net9.0-windows\Gym_FitLife.csproj.CoreCompileInputs.cache
+D:\LTTQ\Gym_FitLife\obj\Debug\net9.0-windows\Gym_FitLife.dll
+D:\LTTQ\Gym_FitLife\obj\Debug\net9.0-windows\refint\Gym_FitLife.dll
+D:\LTTQ\Gym_FitLife\obj\Debug\net9.0-windows\Gym_FitLife.pdb
+D:\LTTQ\Gym_FitLife\obj\Debug\net9.0-windows\Gym_FitLife.genruntimeconfig.cache
+D:\LTTQ\Gym_FitLife\obj\Debug\net9.0-windows\ref\Gym_FitLife.dll
